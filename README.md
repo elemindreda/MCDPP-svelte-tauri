@@ -10,7 +10,7 @@ Hi! This project was started by me to create a small efficient method of program
    1.1 Use test based development to ensure any failure modes are caught early.
    1.2 Generate a more usable UI which shall require minimal clicking to create and generate programming files.
    1.3 Create a formatted excel / PDF output file to amplify the readability of the Controller programming. Similar to template file below:
-   <img src=".\src\assets\Cause_and_Effect_Matrix.xlsx - Excel.png"  
+   <img src=".\src\assets\ProgrammingQAfile.png"  
         alt="cause and effect table"  
         style="float: left; margin-right: 10px;" />
 2. Create a self generated cause and effect chart which will allow assignment of relay outputs to actions such as, AR1 = Strobe Alarm RM 123 . The goal is to create a formatted excel / pdf file which shall include multiplied relays and be used to perform final functional testing.
